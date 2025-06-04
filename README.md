@@ -7,3 +7,12 @@
 
 ### Pipeline
 ![image](https://github.com/user-attachments/assets/5525af4e-fb84-4230-93e7-5719e393b94b)
+step 1) GPT zero-shot prompting으로 인지왜곡 분류
+step 2) llama-3-Korean-bllossom-8B에 LoRA Adaptor를 추가해 학습된 5개의 Agent -> 인지왜곡에 맞는 Agent 선택하여 답변 생성
+
+### Dataset
+- MindCafe(https://www.mindcafe.co.kr/)에서 전문 답변 크롤링
+
+### Results
+https://github.com/user-attachments/assets/70711c91-5fae-443b-8b8c-47c46c91213f
+
