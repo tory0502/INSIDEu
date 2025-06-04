@@ -12,6 +12,7 @@ step 2) llama-3-Korean-bllossom-8B에 LoRA Adaptor를 추가해 학습된 5개�
 
 ### Dataset
 - MindCafe(https://www.mindcafe.co.kr/)에서 전문 답변 크롤링
+- LoRA fine-tuning dataset
 
 ### Results
 https://github.com/user-attachments/assets/70711c91-5fae-443b-8b8c-47c46c91213f
