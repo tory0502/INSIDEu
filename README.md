@@ -3,14 +3,6 @@
 🎓 2025년 연세대학교 YAICON 팀 프로젝트 / 기간: 2025.04 ~ 2025.05    
 🧑‍💻 팀원: 이승은 박성용 이혜준 김하영 김서연
 
-### 🛠️ 내가 맡은 역할
-- 초기 아이디어 발제 (AutoCBT: An Autonomous Multi-agent Framework for Cognitive
- Behavioral Therapy in Psychological Counseling와 영화INSEIDEOUT에서 영감)
-- 마인드카페 홈페이지 내 상담글 데이터크롤링
--파이프라인구축 YAICON INSIDEu
-
-🎓 2025년 연세대학교 YAICON 팀 프로젝트 / 기간: 2025.04 ~ 2025.05    
-🧑‍💻 팀원: 이승은 박성용 이혜준 김하영 김서연
 
 ### 🛠️ 내가 맡은 역할
 - 초기 아이디어 발제 (AutoCBT: An Autonomous Multi-agent Framework for Cognitive
@@ -21,6 +13,7 @@
 
 ### 주요 기술
 - python
+  
 ### Introduction & Background
 최근 직접 대면 상담에 대한 심리적 부담이나 거부감으로 인해, 비대면 방식의 상담 도구에 대한 수요가 증가하고 있으며 그 중에서도 상담 챗봇의 활용이 활발히 이루어지고 있다. 특히, 다양한 성격과 전문성을 지닌 Agent들이 협업하는 Multi Agent 시스템은 사용자에게 보다 폭넓은 상담을 제공할 수 있다는 점에서 주목받고 있다. 그러나 현재 개발된 대부분의 Multi Agent 상담 챗봇은 영어 또는 중국어를 기반으로 하고 있다. 이에 본 프로젝트는 한국어를 기반으로 한 Multi Agent 상담 챗봇을 구현하고자 한다.
 
